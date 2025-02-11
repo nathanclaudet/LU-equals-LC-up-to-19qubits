@@ -3,8 +3,8 @@ using namespace std;
 
 //To execute: g++  main.cpp -o main && ./main
 
-//This code refers to the work "Deciding Local Unitary Equivalence of Graph States in Quasi-Polynomial Time" which is free to access at *arxiv link coming soon*
-//Notably, this code relies on the definitions of 2-local complementation and 2-incidence from arxiv.org/pdf/2409.20183
+//This code refers to the work "Deciding Local Unitary Equivalence of Graph States in Quasi-Polynomial Time" which is free to access at https://arxiv.org/pdf/2502.06566
+//Notably, this code relies on the definitions of 2-local complementation and 2-incidence from https://arxiv.org/pdf/2409.20183
 
 
 ////////////////////////////////////////// Auxiliary functions //////////////////////////////////////////
